@@ -18,7 +18,7 @@ Neste projeto realizado em aula, pratiquei o uso de HTML e CSS, para a criação
 - HTML
 - CSS
 
-## 📔 Conhecimentos abordados
+## 📝 Aprendizados
 
 - [x] Uso semântico do HTML
 - [x] Uso do CSS Flexbox
