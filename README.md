@@ -11,7 +11,7 @@
 
 ## 💻 Projeto
 
-Neste projeto, consegui praticar o uso de HTML e CSS para a criação de uma landing page do filme Super Mario Bros.
+Neste projeto realizado em aula, consegui praticar o uso de HTML e CSS para a criação de uma landing page do filme Super Mario Bros.
 
 ## 🚀 Tecnologias
 
