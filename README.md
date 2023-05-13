@@ -6,8 +6,9 @@
 
 <a href="https://layout-airbnb.vercel.app/" target="_blank">
  <img src="./.github/preview.png" width="100%" style="border-radius: 6px" />
+ <h3>LINK: https://landing-mario.vercel.app/</h3>
 </a>
-<h3>LINK: https://landing-mario.vercel.app/</h3>
+
 
 ## 💻 Projeto
 
